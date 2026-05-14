@@ -1,0 +1,1195 @@
+Chapter 9 Power and borders
+9.1 What is meant by sovereignty and territorial integrity?
+Key idea
+• The world political map of sovereign nation-states is dynamic
+The world political map shows territories of sovereign nation-states. These are spatially bounded areas of land,
+which physically define independent, self-governing countries. These political units are the dominant entity in the
+global political system and are considered to be the most important form of spatial governance.
+The dynamic nature of the map is demonstrated by the formation of new countries since 1990. Examples
+include:
+• South Sudan seceded from Sudan in 2011, following protracted civil war; border regions such as Abyei remain
+contested (see South Sudan case study, page 291).
+• Eritrea gained independence from Ethiopia in 1993 following years of armed conflict.
+• Fifteen new countries in eastern Europe and central Asia were formed by secession from the USSR following
+the demise of the communist regime there in 1991 (Figure 9.1).
+• Germany achieved unity in 1990 as a result of political, economic and social reunification of East (GDR) and
+West (FRG) Germany.
+• The area of former Yugoslavia has seven countries today; the division, in 1990, was based on political, economic
+and ethnic factors. These Balkan states include Kosovo, recognised as independent by most other countries.
+• East Timor gained full status as an independent sovereign state in 2002 (Figure 9.2, page 272), following
+annexation by Indonesia in 1975.
+• The Republic of Yemen replaced the Yemen Arab Republic (North) and the People’s Democratic Republic of
+Yemen (South) in 1990; this was partly to exploit oil fields either side of the former border (see Yemen case
+study, page 284).
+• The Czech Republic and Slovakia became independent states after the dissolution of Czechoslovakia in 1993,
+following the ‘Velvet Revolution’.
+Figure 9.1 Political map of eastern Europe and central Asia following the breakdown of the former
+USSR
+Figure 9.2 Location of East Timor. The dispute between East Timor and Australia over access to
+the rich oil and gas reserves in the Timor Sea was resolved, under UNCLOS, by the Timor Sea
+Treaty 2018; this included a median line maritime boundary drawn up between the Timor and
+Australian coasts
+The significance of these border changes is far more than a matter of territory. They affect sovereignty over
+populations and physical resources; they influence the economy and social geography of each area, including
+ethnic groups. And they influence global patterns of trade, and migration, internal and international, for each new
+country.
+The world political map also shows disputed international borders. Examples in South Asia include the
+claims of India, Pakistan and China in the Jammu and Kashmir area, and the Arunachal Pradesh border between
+India and China (Figure 9.3).
+Stretch and challenge
+East Timor (Democratic Republic of Timor-Leste) declared its independence from Portugal in 1975 but
+nine days later was invaded by Indonesia. Following many years of conflict, it became a fully
+independent state in 2002.
+Investigate:
+a Reasons for East Timor seeking independence
+b The role of the UN in East Timor before and after independence
+c Social and economic change in East Timor since independence. See UN data at
+http://data.un.org/en/index.html.
+Figure 9.3 Disputed borders in South Asia
+In addition to disintegration caused by secession, the world political map has also changed through processes of
+integration. Examples of politically strong and economically important groups of countries include:
+• regional trade blocs such as the EU – although the UK is no longer a member state, the EU had recently
+expanded by the accessions of Croatia in 2013, Bulgaria and Romania in 2007 and ten other states in 2004
+• global organisations such as the UN, IMF, World Bank and WTO
+• G20 (Group of Twenty) and G7 (Group of Seven) – Canada, France, Germany, Italy, Japan, UK and USA.
+Definitions of state, nation, sovereignty and territorial
+integrity
+The terms state, nation, sovereignty and territorial integrity are fundamental in understanding the world political
+map, the global political system, and the challenges faced in the twenty-first century.
+State
+The term state refers to the area of land, of an independent country, with well-defined boundaries, within which
+there is a politically organised body of people under a single government. States therefore are political entities that
+have territories over which the body politic exercises sovereignty.
+States have the following characteristics:
+• Defined territory: which is internationally recognised.
+• Sovereignty: in which the political authority is effective and strong enough to assert itself throughout the
+bounded territory.
+• Government recognised by other states: often achieved through UN elected membership.
+• Capacity to engage in formal relations with other states.
+• Independence: self-governing.
+• Permanent population which has the right to self-determination.
+State power
+The term state apparatus refers to the set of institutions and organisations through which state power is
+achieved. These include:
+• internal political and administrative organisations
+• the strength of legal mechanisms
+• the organisation of police and armed forces
+• the ability to provide effective health, education and welfare systems
+• the ability to regulate fiscal and monetary policies.
+Globally there is inequality in the power and influence of states. Some states have the ability to dominate and
+drive global systems and have significant influence on geopolitical events. Others have little influence and can
+only react or respond to global change.
+Economic power can be measured in terms of trade and wealth generated over long periods (Figure 9.4).
+Figure 9.4 States with highest GDP in US$ (billions) – a measure of economic wealth and power,
+2019 (Source: IMF World Economic Outlook http://knoema.com/nwnfkne/world-gdp-ranking-2019-
+gdp-by-country-data-and-charts)
+Military power may also depend on wealth and government policy (Figure 9.5).
+Figure 9.5 Share of world military expenditure, 2018 (Source: SIPRI Military Expenditure Database,
+2019)
+Figure 9.6 Global pattern of state fragility, 2019 (Source: Fragile States Index, The Fund for Peace
+https://fragilestatesindex.org/analytics/fsi-heat-map/)
+A state may also be influential in the global spread of its cultural attributes, such as so-called ‘Americanisation’.
+State power depends on the interrelation of economic, social, political and physical factors. Examples include:
+• The ability to exploit natural resources; and geographical location.
+• Human resources such as levels of education, and demographic structure.
+• Industrial development, wealth, and the ability to regulate the economy.
+• The strength of international trade and the ability to gain access to global supply chains.
+• Internal political organisations, international relations and government policies.
+These factors contribute to the relative fragility/resilience of a state.
+The degree of resilience of a state is measured by the Fund for Peace (FFP) Fragile States Index. The global
+pattern of state fragility/resilience (Figure 9.6) is based on a wide range of social, economic, political and military
+indicators. Examples include measures of state security, protection of human rights and the impact of refugees. See
+https://fragilestatesindex.org/indicators/.
+Nation
+The term nation refers to a large group of people with strong bonds of identity – they are united by shared
+descent, history, traditions, culture and language.
+Activities
+1 With reference to Figure 9.6, describe the global pattern of state fragility.
+2 For any one country, suggest two economic and two political factors that account for a high level of
+state fragility. See Country Dashboard https://fragilestatesindex.org/country-data/and Yemen page
+284, South Sudan page 291 and Mali page 295.
+3 Evaluate the choropleth technique used to show the levels of state fragility in Figure 9.6.
+See Chapter 15, Geographical skills, page 530 for further understanding of the choropleth technique.
+A nation is different to a state. Spatially, a nation may be confined to one country, or its people may live in an
+area across adjoining countries, and some may be scattered globally in the diaspora. Many states contain several
+national groups.
+Stretch and challenge
+Table 9.1 Fragile States Index and Fund for Peace rankings for selected countries, and HDI, 2019
+FFP
+classification
+Global
+rank –
+fragility
+State Fragile
+States
+Index
+HDI FFP
+classification
+Global
+rank –
+fragility
+State Fragile
+States
+Index
+H
+Very high alert 1 Yemen 113.5 0.463 74 India 74.4 0.6
+2 Somalia 112.3 n/a 83 Brazil 71.8 0.7
+3 South
+Sudan
+112.2 0.413 91 Ukraine 71 0.7
+4 Syria 111.5 0.549 Warning 102 Serbia 68 0.7
+5 DRC 110.2 0.459 110 Ghana 65.9 0.5
+High alert 6 CAR 108.9 0.381 118 Cuba 60.8 0.7
+9 Afghanistan 105 0.496 Stable 125 Montenegro 55.3 0.8
+Alert 12 Haiti 99.3 0.503 132 Bulgaria 50.6 0.8
+21 Mali 94.5 0.427 More stable 140 Argentina 46 0.8
+24 Pakistan 94.2 0.560 143 Italy 43.8 0.8
+30 Liberia 90.2 0.465 147 Spain 40.7 0.8
+High warning 34 Egypt 88.4 0.700 Very stable 153 USA 38 0.9
+41 TimorLeste
+85.5 0.626 155 UK 36.7 0.9
+52 Iran 83 0.797 160 France 32 0.8
+59 Turkey 80.3 0.806 Sustainable 165 Austria 25 0.9
+Elevated
+warning
+64 Honduras 77.8 0.623 Very
+sustainable
+176 Switzerland 18.7 0.9
+73 Russia 74.7 0.824 178 Finland 16.9 0.9
+1 Outline and justify an appropriate technique to represent the Fragile States Index data shown in
+Table 9.1.
+2 a) Use a scatter graph and the value of Spearman’s rank correlation coefficient to assess the
+strength and direction of the relationship between State Fragility and Human Development for the
+selected countries in Table 9.1.
+b) Suggest reasons to explain the nature of the relationship.
+See Chapter 15, Geographical skills, pages 561–63 for analysing relationships and calculation of
+Spearman’s rank.
+Figure 9.7 Location and extent of Kurdistan (Source: Wars in the World)
+An example is the Kurdish nation. Kurds are a non-Arab, Middle Eastern population inhabiting the region
+known as Kurdistan. This is an extensive plateau and mountain area in Southwest Asia, including parts of eastern
+Turkey, northeast Iraq, northwest Iran, and small areas of Armenia and northeast Syria (Figure 9.7). Traditionally a
+nation of nomadic herders, Kurds are now mostly semi-nomadic or sedentary. Other examples of nations include
+Maori, Basque and Sioux nations.
+Nations do not have sovereignty; the Kurds are a nation united by culture but without a state or sovereign power. When a nation has an independent state of its own it is referred to as a nation-state. A nation-state is a state
+that has sovereignty over a single nation. Japan and France are examples. The boundaries of the state coincide with
+the geographical area inhabited by the nation.
+In modern global politics nearly all states refer to themselves as nation-states, even though many contain
+citizens of more than one nationality. This is partly because every government attempts to build a sense of national
+identity among its citizens. In many nation-states the government actively promotes nationality, often through its
+education system and media, in a process of nation-building.
+Sovereignty
+‘Sovereignty’ is the absolute authority that independent states exercise in the government of the land and peoples
+of their territory. The global political system of independent states is therefore based on territorial sovereignty. This
+is a fundamental principle in understanding modern political geography.
+Sovereignty is sustained by two political processes:
+• Internal sovereignty: an independent sovereign state has exclusive authority within its bounded territory and no
+other state can intervene in its domestic politics.
+• External sovereignty: a state cannot simply proclaim sovereignty; it has to be recognised by other sovereign
+states. This ensures its territorial integrity and its ability to enter into international relations.
+Sovereign authority exists beyond the dimension of spatial land area; it also applies to:
+• space beneath the Earth’s surface, including rocks, soils and minerals
+• agreed areas of sea and sea-bed resources
+• agreed air space.
+These are important principles because, in the globalised world of the twenty-first century, the concepts of
+sovereignty and territorial integrity are increasingly being challenged. And these challenges have become potential
+sources of conflict.
+Territorial integrity
+Territorial integrity is the principle that the defined territory of a state, over which it has exclusive and
+legitimate control, is inviolable, i.e. it must be respected and can never be broken or infringed.
+Territorial integrity and sovereignty are interrelated. States exercise their sovereignty within a specific territory,
+the boundaries of which have been established by international law. This provides the framework for the current
+international political structure based on territorial division and sovereign states.
+The Charter of the United Nations, which aims to maintain international peace and security and develop friendly
+relations among nations, specifically refers to the importance of territorial integrity, viz:
+• Article 2.4: All Members shall refrain in their international relations from the threat or use of force against the
+territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes
+of the United Nations.
+The preservation of territorial integrity and sovereignty is therefore important in achieving and maintaining
+international security and stability in the world.
+Understand the terms, norms, intervention and
+geopolitics
+An understanding of the terms ‘norms’, ‘intervention’ and ‘geopolitics’ is fundamental in appreciating that
+sovereignty and territorial integrity are complex issues.
+Norms
+Norms are derived from moral principles, customs and ways of living that have developed over time throughout
+the world. They are universally accepted standards of behaviour. The principles set out in the Charter of the United
+Nations are based on these long-established and universal norms.
+These principles have become important norms for understanding sovereignty and territorial integrity. They are
+enshrined in international law to be upheld by state governments and their citizens, and include:
+• Article 2.1: this refers to the importance of sovereignty; the Organisation (the UN) is based on the principle of
+sovereign equality of all its Members. This means that all member states have equal right to determine their own
+form of government which they can choose without outside influence – self-determination. Governments are
+able to make authoritative decisions with regards to the people and resources within their defined territory. But
+they also have the responsibility to respect the sovereignty of other states.
+• Article 2.4: as we have seen, refers to the importance of preserving territorial integrity and the political
+independence of states.
+These are the norms by which the global system of sovereign states with bounded territories is maintained. Further
+examples of norms relating to sovereignty and territorial integrity include the obligations of states to:
+• promote and develop friendly international relations
+• protect their citizens
+• respect, promote and fulfil human rights
+• allow citizens to be involved in government
+• allow citizens the freedom and opportunity to contribute to society.
+In order to conform to these norms, governments are expected to put in place domestic measures and laws
+compatible with the UN Charter and any other treaties they have ratified. Many norms are reinforced by
+international treaties or conventions. Over time there has been an increasing number of norms and principles of
+accepted behaviour established by the UN and in the charters of regional organisations such as the EU, AU and
+ASEAN. Governments that have been unable to fulfil their obligations or responsibilities, often because some
+aspect of their state apparatus is ineffective, rank high in the Fragile States Index (Table 9.1, page 275).
+Intervention
+Intervention is the action of a state, group of states, or international organisations in a foreign territory to end
+gross violations of human rights. The intervention may be an attempt to resolve conflict and humanitarian crises
+that arise from challenges to sovereignty and territorial integrity. Examples of different types of intervention
+include:
+• economic sanctions such as trade embargoes or aid reduction against states that violate international norms of
+behaviour
+• military intervention, authorised by the UN, to protect the territory, population and resources of a country in
+conflict or experiencing human rights violations
+• peacekeeping missions of the UN, and other regional organisations such as NATO, that contribute to building
+peace and security in conflict zones
+• humanitarian assistance by Civil Society Organisations (CSOs) including NGOs and international aid agencies.
+Intervention is controversial. It is argued that the principle of sovereignty, promoted by the UN, is undermined by
+the very act of intervention even though sanctioned by the UN Security Council. Nevertheless intervention may be
+deemed necessary in circumstances such as those shown in Figure 9.8.
+Stretch and challenge
+Responsibility to Protect is gaining ground as a new international security and human rights norm.
+See www.globalr2p.org which includes detailed information on current crises/areas of conflict.
+1 What are the underlying principles of RtoP?
+2 Identify three organisations that are members of the International Coalition for RtoP.
+Geopolitics
+Geopolitics involves the global balance of political power and international relations. Geopolitical power is very
+uneven throughout the world. The inequality in power between countries is explained by differences in their
+wealth, the political strength of their governments, and their level of development (Table 9.2).
+Figure 9.8 Examples of situations that might lead to intervention by international organisations
+Table 9.2 Inequality in the power of different types of countries
+Advanced Countries
+(ACs)
+These powerful countries, such as the USA, have wealth, high levels of
+development and politically strong governments. They are in a strong position
+to drive global systems such as international trade and international migration.
+Low-Income
+Developing
+Countries (LIDCs)
+These less powerful peripheral economies, such as Sierra Leone or Lao PDR,
+have limited access to global markets and limited control over international
+migration.
+Emerging and
+Developing
+Countries (EDCs)
+These rapidly growing economies, such as India and Brazil, are increasingly
+powerful economically and politically.
+See Introduction, page v, for the IMF country classifications.
+In addition, supranational political and economic organisations such as the UN, EU, MERCOSUR, ASEAN and
+OPEC exert strong geopolitical influence. And trans-state organisations such as TNCs have increasing impacts on
+countries in which they locate as globalisation spreads and intensifies.
+The geopolitics of intervention in sovereignty and territorial integrity issues is therefore very significant.
+When the international community is called upon to intervene there are important geopolitical considerations
+(Figure 9.9).
+Global governance of sovereignty and territorial integrity issues is therefore complex and multi-faceted. The
+term encompasses all types of intervention: economic, military, the humanitarian work of CSOs, including NGOs,
+and reinforcement of a growing number of positive societal and political norms, laws and treaties. The
+effectiveness of global governance depends on the interaction, co-operation and co-ordination of all organisations
+involved, at every scale, including the state government (see South Sudan case study, page 291).
+Figure 9.9 Intervention by the international community – geopolitical considerations
+Review questions
+1 Give two examples of sovereign states newly formed in the twenty-first century.
+2 State one example of an AC, EDC and LIDC, according to the IMF classification.
+3 What is the difference between the terms ‘state’ and ‘nation’?
+4 What is meant by the terms ‘sovereignty’ and ‘territorial integrity’?
+5 What do you understand by the term ‘norm’ in the context of sovereignty and territorial integrity?
+6 State four possible circumstances in which intervention might be deemed necessary.
+7 State four different ways that intervention might be imposed by the international community.
+8 Why is intervention controversial?
+9.2 What are the contemporary challenges to
+sovereign state authority?
+Key idea
+• A multitude of factors pose challenges to sovereignty and territorial integrity
+Erosion of sovereignty and loss of territorial integrity are
+influenced by economic, political, social and
+environmental factors
+Current political boundaries
+The current system of nation-states with clearly defined political boundaries is based on the Westphalian
+model. This system was established in the seventeenth century on the principles of sovereignty, territorial
+integrity and the sovereign equality of all states. As we have seen, these principles continue to apply today; they
+are reinforced in the UN Charter – a state cannot violate the sovereignty or territory of another state because, in
+this respect, all are equal.
+However, in the twenty-first century, sovereignty and territorial integrity have been challenged by many current
+threats. Disruptive and destabilising forces have interacted to erode the long-established Westphalian concepts. As
+a result, control of territory and its political boundaries, established by international law, have been increasingly
+contested. Examples of these challenges, both from within and between sovereign states, are shown in Table 9.3.
+Table 9.3 Erosion of sovereignty and loss of territorial integrity associated with current political boundaries
+Contested territory Russia’s annexation of Crimea and support for separatists in Ukraine;
+UK and Argentinian claims over the Falkland Islands; contested islands
+in South and East China Seas.
+Separatism Current claims for separatism include secession by Basque and
+Catalan national groups in Spain and France; and by Scottish
+nationalists in the UK.
+Factional or sectarian
+tensions
+Where political and ethnic conflict challenge sovereignty and territorial
+integrity, for example, in the Middle East and North Africa.
+Transnational movements
+of terrorist and extremist
+activity
+Where movements of foreign fighters, oil, weapons and military supplies
+across international borders have threatened territorial integrity and
+sovereign control of countries such as Turkey and Syria.
+Legacy of colonialism For example, where arbitrary political boundaries and European
+administration of territory caused ethnic partitioning in the ‘scramble for
+Africa’. (See Tuareg and Azawad in the Mali case study on page 295.)
+Contested maritime
+boundaries
+Disputes over natural resources and exploration rights: such as the
+boundary dispute in Atlantic waters off the Ivory Coast and Ghana over
+exploitation of oil reserves.
+Stretch and challenge
+The International Boundaries Research Unit (IBRU) at Durham University conducts research into
+global boundary matters and related geographical issues, including the changing nature of sovereignty,
+territory, citizenship and political organisation of space.
+1 Outline the issues involved in any one current boundary dispute at www.dur.ac.uk/ibru/news/.
+2 With reference to IBRU maps, describe the areas of the Arctic region claimed by bordering countries
+(www.dur.ac.uk/ibru/resources/arctic/).
+3 Suggest reasons why some maritime boundaries in the Arctic are difficult to establish.
+Figure 9.10 Soldiers patrol the India–Pakistan Line of Control, Kashmir. Transnational movement of
+terrorism across this border (Figure 9.3, page 272) is a challenge to sovereignty and national
+security
+Transnational corporations
+Transnational corporations (TNCs) are large corporate enterprises which operate in more than one country.
+For example, Nike, the US sports equipment and clothing company, outsources manufacturing to over 530
+factories in 41 countries and employs over a million people worldwide.
+There are growing numbers of TNCs, not only emanating from advanced countries but increasingly from the
+outward FDI of emerging and developing countries. TNCs have become a driving force of global economic
+integration. Many countries, especially LIDCs, have become reliant on TNCs to integrate their economy into the
+global economy and to encourage development. And in so doing, TNCs have brought many benefits to poorer
+countries.
+But TNCs have brought disadvantages too, many of which present challenges to government control and in
+effect to state sovereignty. In the last two decades many TNCs have expanded their operations regardless of state
+boundaries. And such is their economic power that some nation-states have in part lost control of territory, work
+force, environment, and in some instances their own political decision-making. These decisions have been strongly
+influenced by the large corporations on which they depend for economic growth and development.
+Many TNCs have been criticised for pursuing their own profit-making interests at a cost to the countries in
+which they have invested:
+• Business decisions to invest or disinvest, affecting the lives of many people, have been taken outside the host
+country which has little or no involvement.
+• Disrespect for human rights by some TNCs is another challenge to sovereignty; exploitation of working
+populations, payment of low wages, demands for overtime and long hours, poor working conditions and use of
+child labour are all abuses of human rights levelled at some large businesses.
+These are issues over which the state government may have little control, affecting its ability to protect citizens
+within its own territory. The dilemma for small, peripheral economies is that they are dependent on the economic
+and social benefits derived from TNC investment such as local multiplier effects, the lifting of population above
+poverty levels and the stimulation of other affiliated industries.
+It is not surprising that these challenges to sovereignty are a concern for international organisations such as the
+UN and OECD. Both have established guidelines, setting out TNC and state government responsibilities.
+Nike has been criticised in the past for its negative impacts. Its stated aims now are to shed this reputation and
+conform to guidelines published in its policies on human rights, labour conditions, equality and environmental
+sustainability. Nike and other large TNCs such as Nestlé, Toyota and Royal Dutch Shell all attempt to achieve their
+corporate social responsibility and apply the ten principles of the UN Global Compact (see
+www.unglobalcompact.org/what-is-gc/mission/principles). By incorporating these principles into their strategies,
+TNCs uphold their responsibilities and reduce any challenge they might pose to sovereign state authority.
+Supranational institutions
+Supranational institutions represent a tier of governance above that of the individual state. Examples include
+international organisations at global scale such as the UN and its agencies including the IMF and WTO, and at
+regional scale such as NATO and large regional trading blocs including the EU, ASEAN, MERCOSUR and
+ECOWAS.
+Within supranational institutions member states retain their sovereignty: they are independent countries, have
+equal rights, and exercise exclusive control over, and responsibility for, their citizens. But having achieved
+membership they are also bound to the requirements of the supranational body, including any treaties they sign. In
+this respect, member states are said to ‘surrender’ some aspects of their sovereignty since they must comply with
+the international or regional laws of these institutions.
+The European Union
+The EU is a trading bloc which is not only an economic union but also a political union with its own parliament
+and a monetary ‘Eurozone’.
+There are 27 sovereign member states (Figure 9.11), but their integration in the EU can bring challenges to their
+individual power and autonomy.
+• On the one hand there are benefits of integration which protect states’ interests. These include the ability to
+address transnational issues such as air and water pollution and international crime; and economic and trade
+advantages such as protection of industry by common tariff and access to a large European market.
+• However, these same states are also required to implement EU laws and decisions even if they did not vote for
+them. They cannot pass laws in the interests of their own state if they conflict with those of the EU. And the 19
+members of the Eurozone have additional financial restrictions such as being unable to set their own interest
+rates, and being forced to accept harsh austerity measures and contribute to large bail-out funds, as for Greece’s
+debt crisis in 2015.
+Figure 9.11 The 27 independent states of the European Union, 2021
+Other aspects of EU membership which limit sovereign power of individual member states include enforced
+fishing quotas in the Common Fisheries Policy, and compliance with EU regulations governing Basic Payments
+Schemes and Countryside Stewardship under Common Agricultural Policy.
+United Nations
+Each of the 193 sovereign states in the UN is a member of the General Assembly. As we have seen in the UN
+Charter, sovereignty and territorial integrity are important norms (Articles 2.1, 2.4) which underpin the global
+political system. And despite the effects of globalisation, the system of nation-states is still the basic framework for
+international law; it is the state which has responsibility for its bounded territory and its citizens as well as relations
+with other states.
+Nevertheless, what appears to conflict with these norms is that the UN, with the backing of the Security Council,
+has the right to sanction intervention as in Articles 41 and 42 (see
+https://treaties.un.org/doc/Publication/CTC/uncharter.pdf). These norms are increasingly applied by the
+international community when a state fails to protect its citizens.
+At the General Assembly World Summit in 2005, a UN resolution reaffirmed that the primary responsibility to
+protect its citizens still lies with the individual state, but intervention should apply in instances of genocide, war
+crimes, crimes against humanity and ethnic cleansing. The international community will intervene in a state
+without its consent only when that state is allowing violation of human rights to occur or if it commits them itself.
+Political dominance of ethnic groups
+The geographical distribution of ethnic groups does not always coincide with current political borders.
+• A sovereign state may include more than one ethnic group within its territory: South Sudan is estimated to
+include 60 different ethnic groups or indigenous tribes, of which the Dinka and Nuer peoples are the largest.
+• A single ethnic group may be partitioned by modern state borders: as we have seen, Kurdistan extends across five
+states in Southwest Asia (Figure 9.7, page 275), and the Tuareg homeland stretches across five states in North
+and West Africa (see Mali case study, Figure 9.24, page 295). In each instance, national borders bear little
+resemblance to these areas of common culture and ethnicity.
+Challenges to the territorial integrity of a state come from ethnic groups that have strong identity, culture and
+political organisation and demand full independence to create a new state. This is the case for the Tuareg in Mali,
+who claim independence and the right to self-determination in Azawad.
+Challenges to the sovereignty of a state occur where internal conflict between ethnic groups results in a
+government being unable to protect all its citizens. Conflict between the Dinka and Nuer has been fuelled by
+political differences between leaders and politicians that originate from these different ethnic groups in South
+Sudan.
+For more on South Sudan, see the case study on pages 291–94.
+The Basque Nation
+Challenges to territorial integrity and sovereignty have arisen in Spain and France where the Basque nation has
+long struggled for independence.
+The Basque country straddles the international border of northern Spain and southwest France (Figure 9.12).
+The area is centred on the western end of the Pyrenees and includes seven provinces, four in Spain and three in
+France, with a population of more than 3.1 million.
+Basque people have a distinctive culture, including a unique language (Euskara) which is taught in schools.
+Many traditions and cultural features are maintained in the architecture, food and dance of the area. The Basques
+have a strong tradition of independence and they have achieved political autonomy, including the Basque
+parliament.
+Basque nationalists have demanded the right to self-determination and even full independence from France and
+Spain. To this end the separatist movement, ETA, has carried out violent acts in the past. This has been in the face
+of a history of suppression of Basque identity by the French and Spanish governments, who see this as a threat to
+their sovereign power and potentially their territorial integrity.
+Following the ETA ceasefire in 2011, protests by Basque separatists have been peaceful; this includes actions of
+the Ernai group that continues to support Basque independence, the right to self-determination and territorial unity
+(Figure 9.13).
+Figure 9.12 The seven historic provinces of the Basque Country are divided into three
+administrative regions
+Figure 9.13 Claims for Basque independence are strongly supported, but today the protests are
+more peaceful
+Case study: Yemen: a country in which sovereignty has been
+challenged
+The Republic of Yemen is a relatively new sovereign state created in 1990 by the merger of North
+Yemen and former communist-run South Yemen. Situated at the southern end of the Arabian
+Peninsula, the landscape is largely mountains and desert. Land borders are shared with Saudi Arabia
+and Oman and there are Red Sea and Gulf of Aden coastlines (Figure 9.14). The population, about 29
+million, is mostly located in the highlands of the west (Figure 9.15). Sanaa, the capital, has over 2
+million people and coastal settlements include the strategic ports of Aden, Al Hudaydah, and Al
+Mukalla.
+Yemen is a Low-Income Developing Country. GDP has fallen in recent years (in 2019, $2285 per
+capita, PPP); sectoral contributions are: agriculture 20 per cent; industry 12 per cent and services 68
+per cent. The HDI score of 0.463 placed it 177th among UN member states in 2019. Yemen has risen
+to first place in the State Fragility Index – it is the world’s most fragile state.
+Figure 9.14 Yemen and neighbouring countries
+Figure 9.15 Yemen – population density
+Causes and challenges to the government
+The different ways in which Yemen’s sovereignty has been challenged include:
+• Yemen’s Houthi Shia Muslim movement has ousted the internationally recognised government from
+power. In armed conflict with government forces, the Houthis have seized control of the north and
+west of the country, including Sanaa the capital city (Figure 9.14). Their claim is that the government
+was corrupt and mismanaged the country. Specific reasons included the government’s inability to
+deal with food insecurity, unemployment, poverty and inequality in internal economic development.
+There have been demands for electoral reform owing to unfair levels of Houthi representation in
+government.
+• Intervention by a Saudi-led coalition could also be viewed as a challenge to the sovereignty of
+Yemen. The Houthi claim that their revolutionary council is the legitimate government of Yemen. But
+in 2015 the conflict escalated when the Saudi-led coalition made air strikes against the Houthis in an
+attempt to restore the internationally recognised government. This action is controversial and,
+although requested by the deposed President, it is not clear that it complies with Article 42 of the UN
+Charter. Consequent damage and loss of life inflicted on the civilian population are against
+international humanitarian law.
+• Separatist anti-Houthi groups in the south of the country have been seeking independence for South
+Yemen. This move towards secession has challenged not only the sovereignty of Yemen but also its
+territorial integrity. Separatists seized control of the port of Aden (Figure 9.15), but this conflict was
+ended recently by an agreement made with the government.
+• There have been reports of terrorist activity which have arisen amongst the chaos of the civil war: Al
+Qaeda attacks against US military personnel in Aden and the US embassy in Sanaa, and so-called
+Islamic State attacks on Shia mosques in Sanaa (Figure 9.16) threaten sovereignty.
+Impacts on people and places
+Challenges to the government and sovereignty of Yemen have created a major humanitarian disaster
+(Table 9.4, page 286).
+Figure 9.16 Sanaa, Yemen’s capital city
+Activities
+Threats to Yemen’s sovereignty are complex and contested; consequences have been social,
+economic and political.
+1 Use the BBC News link at www.bbc.co.uk/news/world-middle-east-14704951 and your own
+research to produce a timeline of the main political events contributing to the challenges to Yemen’s
+sovereignty.
+2 Study reports of the UN’s Resident Humanitarian Co-ordinator in Yemen at
+https://reliefweb.int/organization/un-hc-yemen and Human Rights Watch reports on Yemen to
+update impacts of the conflict on people and places.
+Table 9.4 Impacts on people and places in Yemen
+People Places
+• According to the UN, the conflict between
+government forces and Houthi rebels has led
+to the death or injury of 17,700 civilians.
+• In the ensuing humanitarian disaster, the UN
+estimates that 80% of the population (more
+than 22 million people) require humanitarian
+assistance or protection.
+• The UN estimates that 20 million people are
+food insecure including 8.4 million at risk of
+starvation.
+• Severe acute malnutrition threatens the lives of
+2 million children under the age of 5 years and
+1 million pregnant or breastfeeding women.
+• Yemen’s health system has collapsed; hospital
+treatment is severely restricted. OCHA
+estimates that 17.8 million people lack access
+to safe water and sanitation; 19.7 million
+people lack access to adequate health care.
+There has been a large cholera outbreak.
+• It is estimated that thousands of people have
+been displaced by the fighting, many
+relocated in camps for Internally Displaced
+Persons (IDPs).
+• Military personnel and civilians have been
+killed or injured by landmines.
+• The civil war has a negative impact on the
+national economy; agriculture and businesses
+have been decimated
+• Five million children have no access to
+education.
+• Sanaa – in 2015 Houthi rebels overran the capital
+following protests in the streets urging the
+government to step down.
+• Sanaa – air strikes have caused civilian casualties
+and destruction of buildings. Satellite images and
+witness reports show that civilian gatherings,
+residential neighbourhoods, markets, schools,
+mosques and infrastructure including roads and
+airports have been affected.
+• In the northern governorate of Al-Jawf (Figure
+9.14, page 284), the UN reported 31 civilians
+killed in one Saudi-led air strike on 15 February
+2020.
+• Northern Yemen – lack of co-operation between
+Houthi militants and various aid agencies has
+obstructed the distribution of medicines and food
+(provided under the UN’s World Food
+Programme), giving rise to undernutrition.
+• Marib (Figure 9.14, page 284) – UN reports of
+attacks on hospitals, including Marib General, a
+government hospital, severely limiting medical
+services for about 15,000 people including many
+vulnerable IDPs.
+• Al Hudayah – the entry port for much of the aid
+going into Yemen. Assaults by Saudi-backed
+government forces on this rebel held port have
+impeded the delivery of aid.
+Review questions
+1 Give three ways in which the sovereign power of a state can be weakened.
+2 Give three ways in which the UN attempts to maintain peace and security.
+3 How does NATO attempt to resolve conflict?
+4 What is the role of NGOs in conflict zones?
+5 Why are treaties important in regulating conflict?
+6 State three economic impacts of the conflict in South Sudan.
+7 State three social impacts of the conflict in South Sudan.
+8 Identify three benefits of intervention in South Sudan for local communities. Refer to specific
+localities.
+9.3 What is the role of global governance in conflict?
+Key idea
+• Global governance provides a framework to regulate the challenge of conflict
+How challenges to sovereignty and territorial integrity can
+be a cause of conflict
+The ways in which challenges to sovereignty and territorial integrity can be a cause of conflict are outlined in
+Figure 9.17.
+From a geographical perspective, challenges to sovereignty and territorial integrity and resulting conflict have
+occurred in all types of countries – LIDCs, EDCs and ACs – and in every continent. Details are provided in this
+chapter in the case studies of Yemen, South Sudan and Mali and in the Basque, Kashmir and East Timor examples.
+Most of the challenges in these instances have led to serious political and military conflict.
+Patterns of conflict/peacefulness are shown on the Global Peace Index map (Figure 9.18). The map is available
+at http://visionofhumanity.org/indexes/global-peace-index/; it is interactive and provides details of indices used to
+calculate the index of peacefulness score for every country. The Institute for Economics and Peace has ranked
+countries according to a composite score based on 23 different ‘peace’ indicators. These are grouped into three
+main categories: militarisation; safety and security; and domestic and internal conflicts. Examples of indices
+relating specifically to conflict include: number and duration of internal conflicts; deaths from internal conflicts;
+likelihood of violent demonstrations within the country; number, duration and role of a country in external
+conflicts; number of deaths from external conflicts. In 2019 the four most peaceful countries were Iceland, New
+Zealand, Portugal and Austria, and the four least peaceful were Afghanistan, Syria, South Sudan and Yemen.
+Figure 9.17 How challenges to sovereignty and territorial integrity can be a cause of conflict
+Natural resources: water supply conflict, Kashmir
+Sovereignty over Kashmir has been contested between Pakistan and India since the partition of India in 1947
+(Figure 9.3, page 272). Periodic firing across the border by both countries has caused deaths of military personnel
+and internal displacement of thousands of poor farmers and their families. Troops are even stationed high in the
+Karakoram Range at over 6000 m to control the territory of the Siachen Glacier, a major source of the River Indus.
+Although there are ethnic, cultural and religious differences, water insecurity is at the heart of the Kashmir
+dispute. The Indus is a very important natural resource to both countries for irrigation and hydro-electric power. Mediated by the World Bank, the Indus Waters Treaty of 1960 shared the waters of the Indus and is still in force.
+But Pakistan, occupying the lower part of the Indus Basin, complains that India adversely affects its water supplies
+by damming the upper tributaries which flow through that part of Kashmir under Indian control.
+This dispute is one of escalating importance for both countries owing to:
+• the rapid growth of their populations, increasing demand for water
+• the water resource itself depleting as global warming causes Himalayan glaciers to retreat.
+The dispute remains unresolved, requiring greater co-operation between the two countries.
+Figure 9.18 The Global Peace Index, 2019 (Institute for Economics and Peace)
+Activities
+1 With reference to Figure 9.18, describe the global pattern of peace.
+2 What are the similarities and differences in the global pattern of peace (Figure 9.18) and the global
+pattern of state fragility (Figure 9.6, page 274)? Suggest reasons for your answer.
+The role of institutions, treaties, laws and norms in
+regulating conflict and in reproducing the global system
+of sovereign nation-states
+The sovereign nation-state is the basis of the global political system. Intervention by the international community
+is used when sovereignty is threatened by genocide, war crimes, crimes against humanity and ethnic cleansing.
+Institutions involved in the intervention process include the UN, NATO, regional economic and political
+groupings such as the EU and ASEAN, and civil society organisations including many international NGOs. These
+institutions have different roles in establishing and reinforcing treaties, laws and norms. They are all significant in
+regulating conflict and in reproducing, or maintaining, the global system of sovereign nation-states – often through
+co-operation and co-ordination of their strategies.
+Activities
+A useful way of investigating conflicts is to access the interactive map of the US Global Conflict Tracker
+available at www.cfr.org. Choose an example:
+1 Identify reasons for conflict.
+2 Explain how sovereignty/territorial integrity is challenged.
+The role of institutions
+The United Nations
+The UN, founded in 1945, is an international organisation of 193 elected member states. Its headquarters is in New
+York City, but its historic home is the Palais des Nations, Geneva. Originally built to house the League of Nations,
+overlooking Lake Geneva in Switzerland (Figure 9.19), today it hosts UN Agencies that have very significant roles
+in regulating conflict. These include the Office of the UN High Commissioner of Human Rights (OHCHR), the
+UN Refugee Agency (UNHCR) and the UN Office for the Co-ordination of Humanitarian Affairs (OCHA).
+In regulating conflict the UN aims to:
+• achieve worldwide peace and security
+• develop good relations between nations
+• foster co-operation among nations.
+The UN Charter gives the Security Council primary responsibility for maintaining international peace and security.
+Figure 9.20 illustrates the ways in which the UN does so. Most of these practices have become difficult to achieve
+in the twenty-first century; preventative diplomacy and mediation are therefore increasingly important. Monitoring
+and observation have also taken on greater significance, enabling peacekeeping operations to be deployed earlier.
+Figure 9.19 Palais des Nations, Geneva – UN European headquarters and one of the largest
+diplomatic conference centres in the world (Source: David Barker)
+The UN operates all its policies as part of a global partnership. This helps to give its interventions legitimacy,
+sustainability and global reach. Currently, in 2021, there are 12 peacekeeping missions; see
+https://peacekeeping.un.org/en/where-we-operate for details. These are backed by the legal and political authority
+of the UN Security Council, the UN Secretariat departments that carry out the day-to-day responsibilities of the
+UN, the support of the host country, and the use of personnel and finance contributed by member states. The UN
+has the important role of co-ordinating the input of all organisations involved in areas of conflict.
+Also see South Sudan and Mali case studies on pages 291 and 295 for examples of UN peacekeeping
+missions.
+The North Atlantic Treaty Organization
+NATO is an alliance of European and North American countries. Its purpose is to safeguard the freedom and
+security of its 30 members through political and military means.
+• Politically: NATO promotes democratic values and encourages consultation and co-operation on defence and
+security issues to help prevent conflict.
+• Militarily: NATO attempts to achieve peaceful resolution of disputes. If diplomatic measures are ineffective, it
+has the military capacity and mandate needed to undertake crisis management operations either alone or in cooperation with other countries and international organisations.
+Figure 9.20 How the UN maintains international peace and security
+The European Union
+After the Second World War, the aim of the EU was to foster economic co-operation on the understanding that
+international trade between member countries would enhance economic interdependence, making them more likely
+to avoid conflict.
+In addition, today the EU has an important security role, providing forces from member states on an ad hoc basis
+for rapid response operations. This is achieved by OSCE (Organisation for Security and Co-operation in Europe).
+The work of OSCE includes conflict prevention and resolution through border management, arms control,
+promoting human rights, combating human trafficking, observing and assisting in democratic elections and
+enhancing cyber security. The EU also aims to regulate conflict through its policies (Table 9.5 on page 290).
+Stretch and challenge
+ASEAN has a similar approach to the EU in terms of conflict prevention. Use the information in the
+Political-Security Community section of its website at www.asean.org/communities/asean-politicalsecurity-community to investigate ways in which ASEAN aims to prevent conflict in its region.
+Non-government organisations
+International civil society organisations (CSOs), including NGOs, intervene in many different ways in conflict
+zones. They work in co-operation with global institutions, national and local governments and citizens resident in
+local communities within the conflict zones. This includes:
+• provision of humanitarian relief including health care, medicine, education, food and water
+• monitoring the situation and providing early warnings of any new violence
+• organising direct mediation and open dialogue between adversarial parties
+• strengthening local institutions, rule of law and democratic processes such as elections
+• reinforcing the growing number of norms, treaties and laws; NGOs can be particularly effective at local scale
+through education ‘in the field’, working with individuals, families and local community groups
+• promoting basic human rights.
+Table 9.5 EU policies specifically linked to conflict
+Foreign Affairs and
+Security Policy
+• Preserve peace and international security
+• Promote international co-operation
+• Develop and consolidate respect for human rights and fundamental freedoms,
+rule of law and democracy
+Common Security
+and Defence Policy
+• Joint disarmament operations
+• Humanitarian and rescue tasks
+• Military advice and assistance
+• Conflict prevention and peacekeeping
+• Crisis management, including peace-making and post-conflict stabilisation
+European
+Partnership and
+Southern
+Neighbourhood
+Policies
+Eastern Partnership and Southern Neighbourhood policies are key elements of
+EU foreign relations. The EU aims to co-operate with 16 of its close neighbour
+states in Eastern Europe, North Africa and the Middle East in terms of security,
+stability and prosperity. See https://ec.europa.eu/info/policies/europeanneighbourhood-policy_en.
+Examples include Amnesty International, the International Committee of the Red Cross (ICRC), Oxfam and
+ACCORD, the African Centre for the Constructive Resolution of Disputes (see also NGOs in the South Sudan and
+Mali case studies, pages 291 and 295).
+The role of treaties, laws and norms
+Treaties, laws and norms are formulated by international organisations such as the UN, EU and ASEAN. They
+govern the legal and generally accepted practices designed to regulate conflict, maintain peace and maintain the
+system of sovereign nation-states.
+Treaties
+A treaty, or convention, is a written international agreement between two or more states and/or international
+organisations. States that sign and ratify a treaty are bound to it by international law. Many multilateral treaties have been adopted by the UN. One example relating to conflict is ‘The Convention on
+the prohibition of the use, stockpiling, production and transfer of anti-personnel mines and on their destruction’.
+By 2020, 164 countries had signed or ratified this legally binding agreement. It remains open for signature by
+others, including China, India, Russia and the USA. The Broken Chair sculpture in Place des Nations, Geneva is a
+monument to many thousands of victims of land mines, and it serves as a reminder to all countries to sign the
+treaty (Figure 9.21).
+Laws
+A primary goal of the UN is to develop international law based on multilateral treaties it has adopted. International
+law defines responsibilities of states in their conduct with each other and treatment of their citizens. In terms of
+conflict, there are laws relating to human rights, disarmament, refugees, nationality issues, treatment of prisoners,
+use of force and conduct of war.
+International law also regulates conflict over global commons. These are resource domains or areas which lie
+outside political reach of any one nation-state, including the high seas, the atmosphere, Antarctica and outer space.
+There are legal and institutional frameworks which address environmental issues of the global commons, including
+for example the UN Convention on the Law of the Sea (UNCOL).
+Norms
+Norms are significant in the regulation of conflict since treaties and laws are derived from norms. Norms are longestablished, common practices in many countries set out in the UN Charter; they in turn are formalised and
+reinforced by treaty and legal requirements.
+Figure 9.21 The Broken Chair, Place des Nations, Geneva (Source: David Barker)
+Cyber conflict is an increasing risk and a threat to sovereignty in our highly interconnected world. Six new
+norms relating to cyber security have been suggested by Microsoft, the US multinational technology
+corporation. The development of international cyber security norms is an important step in limiting potential
+conflict and protecting national security. Importance is placed on achieving global acceptance of these new norms
+in partnership with international organisations such as the UN, NATO, state governments and other actors
+involved.
+The role of flows of people, money, ideas and technology
+in geopolitical intervention
+Flows of people and money are an integral part of the global governance of conflict. Attempts by the international
+community to intervene and provide assistance in conflict zones include UN missions and the involvement of
+regional organisations such as NATO. These all require movement of personnel into conflict zones and transfer of
+finances donated by member states. In some instances, this amounts to more than 10,000 people and over US$1
+billion per UN mission per year (see South Sudan and Mali case studies, below and on page 295). An example is
+the UNIFIL mission in Lebanon. The Mission Fact Sheet at
+https://peacekeeping.un.org/sites/default/files/unifil_peacekeeping_mission_fact_sheets.pdf shows details such as
+national contributions of military and police personnel, and use of the US$0.48 billion budget for 2019–20. In
+addition, the input of NGOs requires flows of staff, volunteers and aid workers into conflict zones plus flows of
+financial aid from fund raising and donations. The money pays for operating costs such as equipment, transport
+and administration.
+Ideas are exchanged in planning and carrying out intervention strategies. Consultation between organisations
+involved, including flows of intelligence, are inherently important in effective governance of conflict. Flows of
+ideas and information are a feature of bilateral and multilateral meetings of governments, regional council
+meetings, UN conferences and discussion at the UN General Assembly. As an example, UNDP is helping to coordinate the work of many NGOs in Lebanon.
+There is increasing dependence on technology in peacekeeping. The advanced technology of the military such as
+satellite imagery, remotely controlled drones and weaponry is used for surveillance and air strikes. Also the growth
+of modern ICT enables information to be supplied via the internet, international databases and the media.
+Communications via mobile telephony and web-based social network services are indispensable for transnational
+networking in the monitoring of behaviour and in conflict management.
+Key idea
+• Global governance involves co-operation between organisations at scales from global to local, often
+in partnership
+Case study: Strategies for global governance in South Sudan,
+an area of conflict
+South Sudan, the world’s newest sovereign state, gained independence from Sudan in 2011. It is a
+landlocked country in east-central Africa (Figure 9.22) with a population of 15 million in 2020. Since
+independence it has become one of the world’s least peaceful countries and most fragile states. There
+has been political instability, civil war, ethnic rivalry – a key underlying cause of the war – and poor
+governance. It is one of the poorest countries in Africa; although there are oil reserves, government
+revenue depends heavily on foreign aid. The cumulative effects of a decade of armed conflict have
+undermined development and left the country with a serious humanitarian crisis:
+• People’s livelihoods have been destroyed; most of the population relies on subsistence agriculture.
+• 4.2 million people have been forced to leave their homes (resulting in 2 million IDPs and 2.2 million
+refugees).
+• There is acute and persistent food insecurity.
+• An estimated 7 million people require humanitarian assistance. Most of these are women and children
+who have been subjected to gender-based violence and forced labour, including child soldiers and
+sex trafficking.
+• There is a narrow industrial base and limited production capacity; 96 per cent of South Sudan’s
+exports are crude oil.
+• There’s limited access to basic services, such as health, education, housing and sanitation.
+• Government investment has focused on defence and security rather than on sectors that would help
+reduce poverty.
+Figure 9.22 Political boundaries of Sudan and South Sudan (Source: www.cia.gov/the-worldfactbook/countries/south-sudan/map)
+• Poverty is acute and widespread with 82 per cent of the population living below the global poverty line
+of US$1.90 per day.
+• There’s a lack of basic infrastructure, such as paved roads, electricity and water supply.
+• South Sudan has one of the lowest per capita GDPs in the world after continued economic decline
+since independence.
+• HDI has also gradually declined since independence. In 2019, its ranking was 0.413, 186th
+.
+• Despite significant decrease in armed hostilities since the peace agreement of 2018, accessing arms
+remains easy.
+• There have been recent UN reports of ethnic cleansing in different parts of the country.
+Interventions and interactions of organisations at a range of scales, including the
+United Nations, a national government and an NGO
+Intervention by the international community has been necessary to resolve conflict, ease suffering and
+promote development. Effective intervention depends on co-ordination of strategies and co-operation
+of organisations involved; these include the UN and its agencies, the Government of National Unity,
+and many NGOs.
+The United Nations
+This intervention involves flows of people (peacekeeping personnel), money (funding from the UN and
+NGOs), ideas (based on field research and monitoring) and technology (biometric registration,
+medicines) into South Sudan (Table 9.6).
+The South Sudanese government
+In 2013, political infighting between President Kiir (Dinka) and Vice-President Machar (Nuer) turned
+into serious armed conflict – an intense civil war fought along ethnic lines. Intervention became
+necessary as the government was failing to protect its citizens and a humanitarian crisis was
+escalating. The obstructive and intransigent attitude of the government made interaction with the UN
+and NGOs very difficult.
+Table 9.6 The roles of UN organisations and agencies in response to conflict in South Sudan
+OCHA
+Co-ordination
+This UN body serves as humanitarian co-ordinator for UN agencies, NGOs, regional
+organisations such as IGAD and the South Sudanese government. Its role is to
+improve the effectiveness of the international response by negotiating access within
+each state, mobilising the funding and monitoring progress.
+UNMISS
+Peacekeeping
+The UNMISS aims to protect civilians, monitor human rights, support implementation
+of the cessation of hostilities agreement and support delivery of humanitarian
+assistance. It has sent over 16,000 personnel (including 14,000 troops and 2000
+police) and had a budget of US$1.27 billion for 2019/20.
+UNICEF
+Children
+UNICEF aims to overcome obstacles preventing children reaching their full potential,
+such as disease, violence, poverty and discrimination. UNICEF has field offices
+throughout South Sudan that help to reach as many children and mothers as possible
+despite poor infrastructure.
+UNHCR
+Refugees
+The UNHCR works closely with the national government to deliver assistance and
+protection services to refugees and internally displaced persons (IDPs).
+WFP
+Food
+The WFP supports vulnerable people affected by conflict, displacement, reduced
+crop production and famine, helping to meet their food and nutrition needs.
+IOM
+Migrants
+IMO works closely with migrants, government and humanitarian partners to track and
+monitor IDPs. It also conducts village assessment surveys for effective reintegration
+of returnees.
+WHO
+Health
+The WHO implements strategies to reduce maternal and child morbidity and mortality
+rates, prevent communicable and non-communicable diseases, strengthen the
+country’s health systems and address environmental and social determinants of
+health.
+By 2020 a ‘revitalised Transitional Government of National Unity’ (R-TGoNU) had been formed
+following a power-sharing agreement between Kiir and the rebel parties, including Machar. This
+brought the prospect of co-operation and peace in South Sudan. IGAD (Intergovernmental Authority on
+Development for Eastern Africa) played an important role in mediating this process.
+But there are still major obstacles to overcome. Peace has been jeopardised by Kiir and Machar
+disagreeing on sharing control of the country’s ten states (Figure 9.23). In addition, there have been
+UN reports of looting of humanitarian supplies by armed youth groups, roadside attacks interfering with
+aid operations, mismanagement of government spending on services, government officials pillaging
+public funds, dissident communities being marginalised and continued inter-communal conflict by cattle
+raiding in the dry season. Nevertheless, UN agencies and NGOs are attempting to interact with
+government departments over issues such as food, shelter and human rights protection (Table 9.6).
+NGOs in South Sudan
+The South Sudan NGO Forum is a platform through which NGOs, national government, the UN and
+donors can share information, establish state-level co-ordination and develop guidelines for effective
+aid strategies. Information is available at http://southsudanngoforum.org/. In 2020, members of the
+forum included:
+• 263 national NGOs, such as Upper Nile Youth Development Organisation and Grass-Root Integrated
+Network for Development (GRIND)
+• 116 international NGOs, such as World Vision International, Médecins Sans Frontières (MSF), Save
+the Children and Care International.
+The NGOs address humanitarian aid and development needs. They are attempting to forge working
+relationships with government authorities and local communities but their work is hindered by violent
+attacks on aid workers. Terre des Hommes (Tdh) is a Swiss NGO currently working in communities in
+the southeast of the country. Its work involves: supplying families with basic necessities, such as
+shelter, clean water and sanitation; helping to increase local food production and education in nutrition;
+providing food in schools and safe areas for child protection.
+Figure 9.23 The states and administrative areas of South Sudan, 2020
+Activity
+Conduct further research into the interventions of Terre des Hommes in South Sudan. Full details are
+available at https://www.tdh.ch/en/our-interventions/south-sudan. Investigate exactly where this
+international NGO is working in the field, the value and effectiveness of what it does, and its
+interactions with partner organisations.
+Consequences of global governance of the conflict for local communities
+Table 9.7 Benefits of global governance of conflict for local communities
+Emergency food
+supply
+Aid agencies have co-ordinated their efforts to position essential supplies
+during the dry season, enabling easier access to food during the wet season
+when roads are difficult.
+Food security Villagers have received training under the WFP to maintain livestock health,
+use fishing equipment and crop production techniques to improve longer-term
+food security.
+Family reunification,
+child and maternal
+health
+UNICEF has helped children, releasing them from armed forces, tracing their
+families, and returning them to school. In partnership with WFP, many have
+been treated for severe, acute malnutrition and provided with access to clean
+drinking water. Women have been supported with antenatal care visits and
+childbirth attended by skilled birth attendants.
+Education NGOs such as Save the Children in South Sudan are working to provide safe
+and uninterrupted education to children affected by conflict. This supports
+SDG Target 4 within the UNDP for quality education and lifelong learning
+opportunities. This includes training teachers and providing materials, for
+example, in Upper Nile and Jonglei states.
+Health, disease
+control
+The WHO, South Sudan’s Ministry of Health, UNICEF and Gavi, the vaccine
+alliance, are improving health by Ebola testing, providing cholera kits,
+immunisation against measles and anti-malarial treatment especially in areas
+subject to flooding such as Jonglei, Upper Nile, Warrap and Eastern Equatoria
+states.
+Protection, shelter Despite the peace agreement, in 2020, 190,376 people were seeking safety in
+UN Protection of Civilian sites in Bentiu, Malakal, Juba, Bor, and Wau. These
+sites provide shelter, sanitation and food during the rainy season for displaced,
+vulnerable people.
+Infrastructure,
+accessibility
+OCHA has negotiated access to remote areas throughout the country to reach
+outlying communities, but transport is difficult. Co-ordinated efforts between
+UNDP, UNOPS and World Bank are helping to improve accessibility by
+connecting communities with road infrastructure projects in remote areas of
+Warrap, Jonglei and Eastern Equatoria states.
+Review questions
+1 Identify three ways in which state sovereignty may be challenged.
+2 Give three located examples of challenges to the territorial integrity of a state.
+3 Give three examples where ethnic groups have claimed independence and right to selfdetermination.
+4 In what ways do supranational organisations challenge the sovereign power of their member states?
+5 In what ways can TNCs challenge the sovereignty of a state?
+6 Outline three social impacts of the humanitarian crisis in Yemen.
+7 Outline three economic impacts of the conflict in Yemen.
+8 Identify two impacts of the challenge to Yemen’s sovereignty on Sanaa, the capital city.
+9.4 How effective is global governance of
+sovereignty and territorial integrity?
+Key idea
+• Global governance of sovereignty and territorial integrity has consequences for citizens and places
+How the global governance of sovereignty issues has
+consequences for citizens and places
+Where sovereignty has been threatened, global governance by the international community aims to re-establish
+effective political control by the state and restore the social and economic life of the country. Such interventions
+have consequences, not only for the state government but also for its citizens and the communities in which they
+live. Intended positive effects are outlined in Table 9.8.
+How the global governance of territorial integrity issues
+has consequences for citizens and places
+Sovereignty and territorial integrity are interrelated. Table 9.9 shows benefits of global governance where
+territorial integrity has been threatened.
+Unintended effects of military intervention which may exacerbate already existing inequalities and injustices
+include:
+• increased numbers of civilian casualties
+• displacement of population (IDPs and refugees)
+• damage to housing/residential districts
+• damage to infrastructure, including roads, limiting access to services such as clean water, health care, medicines
+• food insecurity as farmers are unable to grow crops/tend livestock
+• disruption to education
+• escalation of violence and human rights violation, including ethnically targeted attacks and attacks on aid
+workers.
+Table 9.8 Intended benefits of global governance for citizens and places where sovereignty has been threatened
+Short-term effects Longer-term effects
+Humanitarian aid, via aid agencies
+and donated funds
+Agricultural training to improve food security
+Supply of food Education programmes, which aim to prevent further conflict, help
+post-conflict rehabilitation and support minority groups
+Access to supplies of clean
+drinking water
+Building of democratic institutions
+Supply of medicines and medical
+treatment
+Technical assistance to improve legislative and administrative
+frameworks
+Provision of shelter/safe havens for
+IDPs
+Support democratic and fair electoral processes
+Assistance for vulnerable refugees
+and returnees
+Upholding of human rights, including training of police and military,
+and reinforcement of norms, treaties, laws
+Maintain peace, strengthen rule of
+law and protect civilians
+Integrate gender equality into policies and practices
+Table 9.9 Intended benefits of global governance for citizens and places where territorial integrity has been threatened
+Short-term effects Longer-term effects
+Security and protection of civilians in conflict zones Mediation and fostering of co-operation
+Periods of ceasefire negotiated and monitored Development of sustainable food and water
+supplies
+Border control to facilitate movement of people and
+goods
+Improving trade relationships to help reduce
+effects of economic shock
+Short-term effects Longer-term effects
+Human rights of minority groups/women and
+children/civilians monitored for further response
+Improve business environment by countercorruption and diminishing terrorism financing
+Early warning of renewed/potential conflict Cyber defence
+Reduce forced conscription of child soldiers Restore territory according to international law
+Rule of law strengthened Support transition to democracy/fair elections
+and representation
+Assistance for IDPs and their return Re-establish state authority and state apparatus
+Case study: The impact of global governance of
+sovereignty/territorial integrity in Mali
+There are significant socio-economic and environmental contrasts in Mali. The north is a vast area of
+desert and semi-desert in which the Tuareg are the dominant ethnic group (Figure 9.24). The south has
+the most economic activity as well as the capital, Bamako, located on the Niger (Figure 9.25).
+Figure 9.24 Tuareg at the Festival au Désert near Timbuktu, Mali
+Gold, cotton and agricultural exports generate income but overall this is a very poor, landlocked
+country which depends heavily on foreign aid and migrant remittances.
+Figure 9.25 Dyeing and rinsing cotton cloth on the bank of the Niger river near Bamako, Mali
+Sovereignty/territorial integrity issues
+Challenges to the sovereignty and territorial integrity of Mali include:
+• Separatism: the Tuareg ethnic group has declared independence for Azawad, an area of northeast
+Mali.
+– The claims for secession are based on Tuareg territorial and cultural rights in this area. The current
+international boundaries in this part of West Africa were drawn up by European colonial powers
+over 100 years ago. There was little regard for tribal lands and this resulted in arbitrary division of
+the Tuareg between Mali and neighbouring countries (Figure 9.26).
+– The Tuareg seek greater autonomy in Azawad (Figure 9.27). This area has been marginalised and
+neglected by the Bamako-based national government, 1000 km to the south. The most recent
+military coup in 2012 was caused by dissatisfaction with the government for its ineffective
+governance of the north and failure to handle the many conflicts in the area.
+• Terrorism and extremist activity: in addition to separatist rebellions there have been attacks by
+Islamist groups.
+– There has been rapid growth in insurgency from new armed groups. These include those linked to
+Al-Qaeda, Islamic State, and others with ethnic or political affiliations. There have been serious
+extremist attacks on Malian and regional military forces and UN and French peacekeeping forces.
+– Trafficking of people, smuggling of arms and other contraband have occurred across the remote
+porous borders between Mali, Niger and Burkina Faso. Security has been threatened by extremists
+trying to create a safe haven in the Sahel as a base for attacks elsewhere.
+– Schools have been targeted which reduces access to education and increases vulnerability to sex
+exploitation, forced labour and recruitment of children to armed forces. Health facilities have been
+destroyed and ethnic and inter-community rivalries have been exploited in attacks on civilians.
+Global governance strategies
+The response of the international community to Mali’s sovereignty and territorial integrity issues is
+summarised in Table 9.10.
+Figure 9.26 Tribal lands of the Tuareg in Sahelian and Saharan Africa (Source: http://trama-eordito.blogspot.co.uk/2012/04/tuareg-lo-spirito-degli-uomini-blu.html)
+Opportunities for stability, growth and development and challenges of inequality and
+injustice
+Global governance in Mali is beginning to provide opportunities for stability, economic growth and
+development. But the rate of progress is slow and the challenges of inequality and injustice remain
+(Table 9.11).
+Figure 9.27 Location of Azawad in northeast Mali
+Table 9.10 Global governance strategies in Mali
+United Nations Stabilisation
+Mission
+12,000 military personnel, 1700
+police
+2019–20 budget US$1.14 billion
+MINUSMA:
+• Support for 2015 Peace and Reconciliation Agreement, legal and
+democratic elections, and opening of dialogue with terrorist
+leaders.
+• Restoration of state authority/rule of law.
+• Protection of civilians/human rights.
+• Promoting co-operation between security forces.
+Selected UN agencies:
+working with the government of
+Mali and other partners
+• UNHCR: integration of refugee and IDP returnees.
+• OCHA: co-ordination of operations for all involved, data exchange
+over food security/malnutrition.
+• WFP: food security; operates UN Humanitarian Air Service for
+access to remote communities.
+• UNDP: agenda for sustainable development – SDGs.
+• UNICEF: rights of the child in health, hygiene, education,
+protection against child marriage.
+Malian government and
+regional organisations
+National military forces supported by:
+• regional forces from G5 Sahel countries for security
+• ECOWAS and African Union for mediation.
+Examples of other national
+contributions
+• Security: 5100 French troops – significant, long-term security; the
+British military are training forces in the Sahel in counter-terrorism
+• Youth training project: Japanese financial support partnering
+UNDP.
+Examples of NGOs in Mali:
+Care; Solidarités International;
+Oxfam International; MSF
+NGO strategies include reducing: food insecurity, poverty,
+inequalities and injustices such as gender inequality; improving living
+conditions; providing medical aid; attempting negotiation with rebel
+groups to allow access to people in most need.
+The Sahel Alliance: World
+Bank, African Development
+Launched in 2017 to provide a co-ordinated response to the
+development and security challenges faced by G5 Sahel countries –
+Mali, Niger, Burkina Faso, Mauritania and Chad.
+Bank, EU, UNDP, and
+European countries
+Table 9.11 Opportunities for stability, growth and development, and the challenges of inequality and
+injustice in Mali
+Opportunities Challenges
+Global governance strategies create opportunities …
+To increase stability by:
+• preserving Mali’s territorial integrity and restoring
+sovereign state control and rule of law in the
+centre and north
+• allowing some degree of autonomy for the north,
+with regionally elected leaders, fairer
+representation in national government and
+greater allocation of state budget
+• ensuring peaceful, legal and democratic national
+elections – essential to stability in Mali
+• protecting civilians, communities and their
+livelihoods through improved security and
+reduction in terrorist activity.
+To achieve growth by:
+• strengthening governance of the mining sector
+(gold is the main export) for economic growth
+• improving access to global supply chains, and
+diversifying industry to reduce Mali’s
+vulnerability to commodity price fluctuations
+• incorporating the north into the national economy
+by accelerating infrastructure projects such as
+rural electrification, road and air access
+• encouraging youth training schemes to provide
+skills that will lead to gainful employment.
+To further development by tackling:
+• Health – improving access to health facilities,
+reducing malnutrition and food insecurity,
+improving living conditions and disease
+protection.
+• Education – increasing school enrolment and
+retention, training teachers, reducing attacks on
+schools by terrorist groups.
+• Poverty – helping subsistence farmers to
+become more resilient using sustainable
+techniques, helping small holders to improve
+their products and gain access to markets.
+See UNDP Human Development Indicators for
+Mali at:
+http://hdr.undp.org/en/countries/profiles/MLI.
+These data include useful statistics for various
+development indices, gender inequalities and
+human rights injustices.
+Global governance organisations face remaining
+challenges to reduce inequality and resolve
+injustices.
+Inequality:
+• Globally, Mali is one of the poorest and least
+developed countries; per capita GDP (2020
+PPP) US$2569 – 166th; HDI (2019) 0.427 –
+184th.
+• Internally, Malians experience a high level of
+income inequality (Gini coefficient 40.1, 2020)
+and serious impacts of gender inequality.
+• Socio-economic inequalities between the north,
+which is poorly funded and has limited service
+provision, and the south and central regions.
+• Deep-rooted cultural and linguistic divisions
+between ethnic groups are a challenge for
+peace; conflict between Dogon and Fulani over
+land and water resources is increasing as
+climate changes and extremist activity
+interferes.
+• Urban–rural contrasts demonstrate inequalities
+in provision of infrastructure and access to basic
+services such as health clinics, electricity and
+water supply, and sewage systems.
+Injustices:
+• Government inability to protect citizens from
+human rights abuses, especially children and
+women who are subjected to a disproportionate
+amount of domestic and agricultural work, child
+marriage, female genital mutilation and genderbased violence.
+• The government’s inability to police its own
+country and provide security against extremist
+activity; extrajudicial killings, abduction/people
+trafficking, rape, forced marriage, military
+conscription of children, burning of schools and
+health centres, use of land mines and drug
+smuggling have been increasing.
+• Many people fleeing violence have been
+displaced internally or in neighbouring countries.
+• There’s poor female representation in the
+National Assembly; few women are involved in
+decision making.
+• Access to education is poor, especially for girls.
+There’s a low adult literacy rate.
+• There are high rates of infant mortality, maternal
+mortality and adolescent birth rate. Life

@@ -1,0 +1,132 @@
+[![Summit of Sand | The sand dunes at Mangawhai, Northland, New… | Flickr](https://tse3.mm.bing.net/th/id/OIP.QZD399XxfC-z0p4epoqG0AHaLH?pid=Api)](https://www.flickr.com/photos/rbrienza/7422556586?utm_source=chatgpt.com)
+
+I’m assuming you mean **Mangawhai–Pākiri**, New Zealand. Here’s the case-study information in the same kind of style as your website: clear sections, key facts, physical factors, human impacts, and exam-friendly evaluation.
+
+# Mangawhai–Pākiri Coastline — Case Study
+
+**North Island, New Zealand — Sand Mining and Coastal System Change**
+
+## Overview
+
+**Location:** East coast of North Island, New Zealand, north of Auckland.
+**Coastline Type:** Sandy embayment / littoral cell with beaches, dunes, sandspits and nearshore sand stores.
+**Main Issue:** Economic development through sand mining has altered the sediment budget and raised concerns about coastal erosion, dune stability and rare wildlife habitats.
+
+**Key Stats:**
+
+| Feature                    | Data                                                    |
+| -------------------------- | ------------------------------------------------------- |
+| Littoral cell length       | Around **30 km**                                        |
+| Historic extraction        | Around **2.3 million m³** removed between **1966–1997** |
+| Modern proposed extraction | Around **100,000 m³ per year**                          |
+| Main human activity        | Offshore / nearshore sand extraction                    |
+| Key species affected       | **Tara iti / New Zealand fairy tern**                   |
+
+The Mangawhai–Pākiri coast is a useful OCR A Level Geography case study because it shows how **economic development** can interfere with **sediment cells, coastal processes, landforms and ecosystems**. The wider Mangawhai–Pākiri littoral cell is described as a **30 km-long** sandy coastal system, with very limited sediment supplied by rivers and cliff erosion. 
+
+## 1. Physical Factors Influencing the Coast
+
+### A. Sediment Cell and Sediment Sources
+
+The Mangawhai–Pākiri system is mainly a sandy coastal compartment. Its sand is thought to have been built up after the last glacial period, when rising sea levels moved shelf sand landwards and helped form beach and dune systems. Sea level then stabilised around **6500 years ago**, allowing dunes to develop along the embayment. 
+
+**Important sediment budget point:**
+Rivers and cliff erosion provide **little sediment** to the Mangawhai–Pākiri embayment, meaning the system is vulnerable if sediment is removed faster than it is naturally replaced. Offshore sediment supply is also considered limited. 
+
+### B. Wave Energy
+
+The coastline receives Pacific Ocean swells mainly from the **north to east**. Wave records near Cape Rodney showed an average significant wave height of about **0.73 m**, but storms can produce waves of around **3 m** several times a year, and larger annual storms can reach around **4 m**. 
+
+This matters because storm waves can rapidly erode beaches and dunes, especially if the beach has already been starved of sediment by extraction.
+
+### C. Coastal Transport
+
+Sand can move southwards through the littoral system towards Cape Rodney. Research suggests that some sand carried south from the Mangawhai–Pākiri littoral cell may be transported around Cape Rodney and into deeper water, meaning sediment can be lost from the active beach system rather than easily returned. 
+
+A key scientific concern is that the active beach-nearshore sand system may only extend to about the **25 m isobath**. Beyond this depth, significant sediment exchange with the beach does not appear to happen over useful timescales. This means mining from the wrong part of the nearshore system risks creating a sediment deficit. ([Coastal Restoration Trust][1])
+
+## 2. Human Activity: Sand Mining
+
+### A. Why Sand Was Mined
+
+The sand from Pākiri and the wider Mangawhai–Pākiri embayment has been valuable for the **construction industry**, especially for Auckland’s building demand. Te Ara notes that sand has been dredged from the seafloor off Pākiri Beach since the **1950s** for Auckland’s building industry. ([teara.govt.nz][2])
+
+### B. Scale of Extraction
+
+Historic studies record extraction of roughly **100,000 m³ per year**, with around **2.3 million m³** removed from the sand system between **1966 and 1997**. 
+
+A more recent proposed project involved sand extraction at least **2 km offshore**, from an area of about **10 km²**, with an approximate extraction volume of **100,000 m³ per year over 20 years**. 
+
+## 3. Impacts on the Coastal System
+
+### A. Sediment Budget Change
+
+Sand mining removes sediment from the coastal system. Because natural sediment inputs are limited, this can create a **negative sediment budget**, where more sediment is leaving the system than entering it.
+
+**Exam wording:**
+Sand extraction disrupts the dynamic equilibrium of the coastal system by reducing sediment availability for beaches, dunes and nearshore bars.
+
+### B. Beach and Dune Erosion
+
+Research reviewed by the Coastal Restoration Trust suggests the Mangawhai–Pākiri coast shows **no strong accretionary trend** and is “at best stable and possibly erosional.” It also suggests weak recovery after severe erosion in **1978** may be linked to sand mining. ([Coastal Restoration Trust][1])
+
+This can cause:
+
+* Narrower or flatter beaches.
+* Less wave energy absorbed by beach sediment.
+* Greater undercutting of foredunes.
+* Steeper dune scarps.
+* Loss of vegetation and increased wind erosion.
+
+### C. Mangawhai Harbour Changes
+
+At Mangawhai Heads, storms in the late **1970s and 1980s** breached the south head sand dune barrier, changing harbour hydrodynamics. Local work was needed in **1991** to block the breach and restore a stable single harbour channel. 
+
+This is useful evidence that the dune and harbour system is sensitive to storm events and sediment movement.
+
+## 4. Environmental Impacts
+
+### A. Tara Iti / New Zealand Fairy Tern
+
+The **tara iti / New Zealand fairy tern** is one of New Zealand’s rarest breeding birds. DOC states that there are **fewer than 40 adult tara iti remaining** and only **10 known breeding females** as of July 2025. Its conservation status is **Threatened–Nationally Critical**. ([doc.govt.nz][3])
+
+The species breeds at only a few key sites, including **Mangawhai** and **Pākiri**. DOC identifies habitat loss, predation, storms, high tides and recreational disturbance as major threats. ([doc.govt.nz][3])
+
+### B. Why Sand Mining Matters for Wildlife
+
+The Ministry for the Environment notes that the sand system between **Pākiri and Mangawhai** has been a key tara iti breeding location for the past six decades, and that sand mining has been recognised as affecting coastal dune systems. Loss of breeding sites through erosion could add to the pressure on an already critically threatened species. 
+
+## 5. Management and Conflict
+
+### A. Stakeholders
+
+Key stakeholders include:
+
+* Sand mining companies.
+* Auckland Council.
+* Local communities.
+* Iwi and hapū groups.
+* Department of Conservation.
+* Environmental groups.
+* Tourism and recreation users.
+* Construction industry users.
+
+This case study is strong because it has a clear conflict between **economic demand for sand** and **environmental protection**.
+
+### B. Consent Decisions
+
+In **2024**, the Environment Court upheld the decision to decline continued sand extraction in the Mangawhai–Pākiri embayment. The Ministry for the Environment document also notes that the project may have significant adverse environmental effects, including impacts on coastal processes, sediment erosion, seabirds, marine mammals, water quality, surf breaks and recreation. 
+
+In a later public statement, McCallum Bros said it would surrender its temporary consent, abandon High Court appeals linked to the 2024 Environment Court decisions, and no longer extract sand at Pākiri under that consent. ([mccallumbros.co.nz][4])
+
+## 6. Overall Evaluation
+
+The Mangawhai–Pākiri coastline shows how removing sediment for economic development can affect the whole coastal system. Because the system has limited natural sediment input, sand extraction can reduce beach resilience, increase erosion risk and threaten dune habitats.
+
+**Judgement:**
+Sand mining brings economic benefits by supplying construction material, but the environmental costs are high because the sediment system is fragile, recovery is slow, and the area supports nationally critical wildlife. For OCR Geography, this is a strong example of how human activity can disturb the **sediment budget**, alter **landforms**, and create conflict between **economic development and environmental sustainability**.
+
+[1]: https://ref.coastalrestorationtrust.org.nz/documents/nearshor-surfzone-system-limits-and-the-impacts-of-sand-extraction/ "Nearshor-surfzone system limits and the impacts of sand extraction • Coastal Dune Ecosystem Reference Database"
+[2]: https://teara.govt.nz/en/photograph/5523/sand-dredge-pakiri-beach "Sand dredge, Pākiri Beach | Marine minerals | Te Ara Encyclopedia of New Zealand"
+[3]: https://www.doc.govt.nz/nature/native-animals/birds/birds-a-z/nz-fairy-tern-tara-iti/ "Tara iti/New Zealand fairy tern: Sea and shore birds"
+[4]: https://mccallumbros.co.nz/mccallum-bros-public-statement-in-relation-to-sand-extraction-at-pakiri/ "McCallum Bros Public Statement in Relation to Sand Extraction at Pākiri - mccallumbros"
