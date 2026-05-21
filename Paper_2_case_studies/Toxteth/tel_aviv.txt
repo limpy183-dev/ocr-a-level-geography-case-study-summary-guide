@@ -1,0 +1,58 @@
+## Tel Aviv rebranding case study — spec-only version
+
+### 1. Why Tel Aviv needed to rebrand
+
+Tel Aviv needed to rebrand because its older image was weak for attracting tourists, young residents, investors and global businesses. Britannica says Tel Aviv used to be portrayed as “lacking character”, “ugly”, “prematurely aging” and having decaying buildings, but this later changed through beautification and a stronger orientation towards the beach. ([Encyclopedia Britannica][1])
+
+It also had a problem because its city image was tied to the wider national image of Israel, which can be affected by conflict and political tension. Hila Oren, CEO of the Tel Aviv Foundation, said the challenge for Tel Aviv’s brand was “the national brand of Israel”, so the city tried to present itself through urban innovation instead. ([Transform magazine][2])
+
+Key numbers for context: Tel Aviv-Yafo covers **52 km²**, had **451,520 residents in 2018**, a density of **8,600 people/km²**, and sits inside a metropolitan area of **3.9 million people**, equal to **44% of Israel’s population**. It is therefore a compact but nationally important economic and cultural centre. ([Tel Aviv Municipality][3])
+
+---
+
+### 2. Strategies involved in rebranding Tel Aviv
+
+| Strategy                          | Specific evidence                                                                                                                                                                                                                                                                                                                                                                              |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **“Nonstop City” brand**          | The official branding process began in **2007**, led by Tel Aviv-Yafo Municipality for the city’s centenary. The aim was to create a “positive and significant shift” in the city’s image. Over **20,000 residents** helped choose the new logo online, and the brand was implemented in **2009**. ([Tel Aviv Municipality][4])                                                                |
+| **Making the brand global**       | In **2013**, Tel Aviv adapted its brand for international audiences, and in **2015** the local and global brands were merged. The brand story sells Tel Aviv as “pluralistic”, “tolerant” and open to “countless possibilities” in a “NONSTOP CITY”. ([Tel Aviv Municipality][4])                                                                                                              |
+| **Startup City strategy**         | Tel Aviv Global was launched by the Mayor’s Office in **2010** to position Tel Aviv as a global innovation and business centre. The city promoted itself as having **2,150 startups**, **4,000 startups in Greater Tel Aviv**, **1 startup per 215 residents**, and over **100 foreign R&D centres** including Google, Facebook, Amazon, Ford, Visa and Barclays. ([Tel Aviv Municipality][5]) |
+| **Heritage-led place design**     | Tel Aviv used its “White City” identity. UNESCO listed the White City in **2003**, covering **140.4 ha** with a **197 ha buffer zone**. Conservation Plan **2650B** was approved in **2008**, identifying about **1,000 historic buildings**, with **180 buildings** under strict no-change conditions. ([UNESCO World Heritage Centre][6])                                                    |
+| **Tourism and culture marketing** | The tourism strategy included the “Two Cities-One Break” campaign. By **2019**, Tel Aviv hotels recorded **3.85 million overnight stays**, including **2.95 million international tourist overnight stays**, with **76% hotel occupancy**, the highest since 2010. ([TravelPress][7])                                                                                                          |
+| **LGBTQ+ / liberal image**        | Tel Aviv Pride became part of the city’s global image. In 2019, about **250,000 people** were expected at Tel Aviv Pride, with **25,000–30,000 foreign visitors** for Israeli Pride events, contributing around **NIS 162 million / $45 million** to the local economy. ([The Times of Israel][8])                                                                                             |
+
+---
+
+### 3. Role and influence of players in the placemaking
+
+| Player                                                                                                             | Role / influence                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tel Aviv-Yafo Municipality**                                                                                     | Main planner and coordinator. It initiated the 2007 branding process, implemented the 2009 brand, managed conservation, tourism, smart-city strategy and public participation. ([Tel Aviv Municipality][4])                                |
+| **Residents**                                                                                                      | Over **20,000 residents** took part in choosing the new city logo, so the brand was not purely imposed from above. ([Tel Aviv Municipality][4])                                                                                            |
+| **McCann Tel Aviv, Baruch Naeh and Touch graphic design studio**                                                   | Helped create the city brand and visual identity. ([Tel Aviv Municipality][4])                                                                                                                                                             |
+| **Tel Aviv Global / Mayor’s Office**                                                                               | Promoted Tel Aviv internationally as a business, tech, tourism and events hub. It targeted foreign companies, startup founders, students, visitors and international events. ([LinkedIn][9])                                               |
+| **Government of Israel, hotels, universities, public institutions, real estate, restaurants and local businesses** | Listed as key stakeholders in Tel Aviv Global. These players benefit from and help reinforce the brand through investment, tourism, education, nightlife and services. ([Transform magazine][2])                                           |
+| **UNESCO**                                                                                                         | Gave global status to the White City, making heritage part of Tel Aviv’s rebranded identity. ([UNESCO World Heritage Centre][6])                                                                                                           |
+| **Tech firms and investors**                                                                                       | Reinforced the “Startup City” identity. In 2025, Tel Aviv ranked **#4 global startup ecosystem**, with **$198 billion ecosystem value**, and top-10 global rankings for knowledge, talent and funding. ([Ministry of Foreign Affairs][10]) |
+
+---
+
+### 4. How rebranding altered people’s perception of Tel Aviv
+
+The rebranding shifted Tel Aviv from being seen as an ageing, unattractive city linked heavily to Israel’s national political image, into a place associated with beaches, nightlife, tolerance, startups, youth culture, design and global business. Britannica says perceptions changed from negative images of decay towards Tel Aviv being recognised for quality of life, cultural amenities and its role as an engine of the Israeli economy. ([Encyclopedia Britannica][1])
+
+The brand also moved from just **“Nonstop City”** to **“Startup City”**. A place-branding interview says Tel Aviv’s image changed from culture, lifestyle and tourism towards economic and financial importance, helped by around **1,700 early-stage startups** at the time. ([TPBO][11])
+
+Its global perception as a tech hub is now strong: Startup Genome reported Tel Aviv as the **#4 global startup ecosystem** in 2024, with **$253 billion ecosystem value** from July 2021 to December 2023. ([startupgenome.com][12])
+
+---
+
+### 5. Relative success of the rebranding
+
+Overall, Tel Aviv’s rebranding was **mostly successful**, especially economically and culturally. It built a clear image around being young, liberal, creative, coastal and high-tech. Strong evidence includes **3.85 million hotel overnight stays in 2019**, **76% hotel occupancy**, the **#4 global startup ecosystem ranking**, and the growth of Tel Aviv as an international Pride and tourism destination. ([TravelPress][7])
+
+However, the success is **not complete**. Tel Aviv still cannot fully detach itself from wider regional conflict. Reuters reported that Ben Gurion Airport passenger traffic reached **18.5 million in 2025**, up from **13.9 million in 2024**, but still below **21.8 million in 2023**. Tourist numbers to Israel rose to **1.34 million in 2025**, but remained below **3.24 million in 2023**. ([Reuters][13])
+
+There are also internal social limits. Tel Aviv’s own resilience strategy says over **one-third** of residents had low/medium socioeconomic characteristics, and when around **46,000 migrant workers and asylum seekers** are included, disadvantaged groups were about **40%** of the city’s population. Poverty among families also rose from **8.8% to 10.6%**. 
+
+**Judgement:** Tel Aviv is a strong rebranding example because the image change is clear and backed by tourism, technology and cultural statistics. But for evaluation, say it is **successful but uneven**, because global conflict and social inequality still limit how fully the rebrand benefits everyone.
